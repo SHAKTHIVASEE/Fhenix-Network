@@ -2,7 +2,7 @@
 
 ## Wallet
 1. Create a Metamask wallet ( Use the wallet you connected to Discord Quests)
-2. Get Faucet by typing /faucet in [Discord](https://discord.gg/fhenix-io) OR [Bridge](https://bridge.helium.fhenix.zone/) from Sepolia
+2. Get Faucet by typing /faucet in [Discord](https://discord.gg/Xg7ABJKa) OR [Bridge](https://bridge.helium.fhenix.zone/) from Sepolia
 
 ## Add Fhenix Testnet to Metamask
 1- Open MetaMask in your browser and click on the Ethereum network.
