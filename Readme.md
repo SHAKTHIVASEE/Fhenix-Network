@@ -22,7 +22,7 @@
 ## Deploy Contract using Remix (Manually)
 **1- Visit [Remix](https://remix.ethereum.org/)**
 
-**2- Create a `SimpleStorage.sol` file and paste [This](https://github.com/SHAKTHIVASEE/Fhenix-Network/blob/main/Zotac.sol) in editing menu**
+**2- Create a `Zotac.sol` file and paste [This](https://github.com/SHAKTHIVASEE/Fhenix-Network/blob/main/Zotac.sol) in editing menu**
 
 ![image](https://github.com/user-attachments/assets/e6c8742f-83c0-4682-b548-54dc4a27b9dc)
 
