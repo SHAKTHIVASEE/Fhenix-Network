@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract SimpleStorage {
+contract Zotac {
     uint256 public storedData;
 
     function set(uint256 x) public {
