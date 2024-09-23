@@ -68,5 +68,4 @@ Do not `submit` if you want to get more points. Click `Edit` ,then `Verify` agai
 
 #
 
-Quest 3 (Gas used per contract by other users) is easy you must transact using another address with your contract, I'll add a guide for it later. I'm sleepy
-
+Complete the Quest ASAP...
